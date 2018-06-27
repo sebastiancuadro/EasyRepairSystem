@@ -1,0 +1,34 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\EasyRepairSystem\bin\Debug\EasyRepairSystem.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\EasyRepairSystem\bin\Debug\EasyRepairSystem.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\EasyRepairSystem\bin\Debug\EasyRepairSystem.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\EasyRepairSystem\bin\Debug\mysql.data.dll
+C:\Users\Usuario\AppData\Local\Temporary Projects\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.Form1.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.vbproj.GenerateResource.Cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.pdb
+E:\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.exe
+E:\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.xml
+E:\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.pdb
+E:\EasyRepairSystem\EasyRepairSystem\bin\Debug\EasyRepairSystem.exe
+E:\EasyRepairSystem\EasyRepairSystem\bin\Debug\EasyRepairSystem.pdb
+E:\EasyRepairSystem\EasyRepairSystem\bin\Debug\EasyRepairSystem.xml
+E:\EasyRepairSystem\EasyRepairSystem\bin\Debug\mysql.data.dll
+E:\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.vbprojResolveAssemblyReference.cache
+E:\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.Form1.resources
+E:\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.Resources.resources
+E:\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.vbproj.GenerateResource.Cache
+C:\Users\sebas\Documents\Visual Studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.exe
+C:\Users\sebas\Documents\Visual Studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.xml
+C:\Users\sebas\Documents\Visual Studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.pdb
+C:\Users\sebas\Documents\Visual Studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\bin\Debug\EasyRepairSystem.exe
+C:\Users\sebas\Documents\Visual Studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\bin\Debug\EasyRepairSystem.pdb
+C:\Users\sebas\Documents\Visual Studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\bin\Debug\EasyRepairSystem.xml
+C:\Users\sebas\Documents\Visual Studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.vbprojResolveAssemblyReference.cache
+C:\Users\sebas\Documents\Visual Studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.Form1.resources
+C:\Users\sebas\Documents\Visual Studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.Resources.resources
+C:\Users\sebas\Documents\Visual Studio 2010\Projects\EasyRepairSystem\EasyRepairSystem\obj\x86\Debug\EasyRepairSystem.vbproj.GenerateResource.Cache
