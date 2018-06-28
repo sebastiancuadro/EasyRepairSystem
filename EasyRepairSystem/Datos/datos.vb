@@ -12,7 +12,8 @@ Public Class Datos
         SqlConection.connectionString = Conexion.Cnn
 
         Try
-            oSql = "insert into Cliente (cedula,nombre,apellido,usuario,password) values (" & P.cedula & ",'" & P.Nombre & "','" & P.Apellido & "','" & P.USUARIO & "','" & P.PASSWORD & "')"
+            oSql = "insert into Persona (cedula,nombre,apellido,usuario,password) values (" & P.cedula & ",'" & P.Nombre & "','" & P.Apellido & "','" & P.USUARIO & "','" & P.PASSWORD & "')"
+            SqlConection.open()
             SqlCommand.Connection = SqlConection
             SqlCommand.CommandText = oSql
             SqlCommand.ExecuteNonQuery()
@@ -28,7 +29,7 @@ Public Class Datos
 
     Public Function BuscarPersona(ByVal C As Integer) As Cliente
         Dim P As New Cliente
-        oSql = "select * From cliente Where cedula=" & C & ""
+        oSql = "select * From Persona Where cedula=" & C & ""
         SqlCommand = New MySqlCommand(oSql, SqlConection)
         Try
 
@@ -59,7 +60,7 @@ Public Class Datos
     Public Function BorrarPersona(ByVal P As Cliente) As Integer
         SqlConection.connectionString = conexion.Cnn
         Try
-            oSql = "Delete FROM cliente Where Cedula = " & P.cedula & ""
+            oSql = "Delete FROM Persona Where Cedula = " & P.cedula & ""
             SqlCommand = New MySqlCommand(oSql, SqlConection)
             SqlConection.open()
             SqlCommand.ExecuteNonQuery()

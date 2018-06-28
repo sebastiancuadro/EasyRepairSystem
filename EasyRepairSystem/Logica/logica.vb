@@ -22,7 +22,7 @@
         If resultado = 1 Then
             Return "Se borro"
         Else
-            Return "No se Borro"
+            Return "No se Borroooo"
         End If
     End Function
     Public Sub New()
